@@ -1,9 +1,9 @@
 body {
-    background-image: url(sp.jpg);
+    background: url(sp.jpg) center;
     background-repeat: no-repeat;
-    background-size: auto;
     background-attachment: fixed;
-    background-position: center;
+    background-position:center center;
+    background-size: cover;
 }
 
 h1 {

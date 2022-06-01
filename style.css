@@ -47,13 +47,13 @@ ul li a:hover {
 }
 
 .column {
-    float: left;
+    float: center;
     height: 70%;
     width: 70%;
     max-width: 380px;
     max-height: 200px;
     padding: 10px;
-    align-items: left;
+    align-items: center;
     justify-content: center;
 }
 
